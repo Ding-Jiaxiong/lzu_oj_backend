@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "openapi-typescript-codegen": "^0.29.0"
+  }
+}
